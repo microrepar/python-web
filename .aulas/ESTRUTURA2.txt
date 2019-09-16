@@ -1,0 +1,19 @@
+ESTRUTURA DE DIRETÓRIOS DO PROJETO Nº 2
+
+/~PYTHON-WEB
+    |-- aulas                       # Arquivos usado nas aulas
+    |-- .flaskenv                   # Arquivos para setar as variáveis de ambiente
+    |-- .gitignore                  # Arquivos e diretórios não adicionados no git
+    |-- controle_documetos.py       # Módulo para rodar a aplicação
+    |-- requeriments.txt            # Depêndencias do Projeto
+    |__ /tutorial-env               # Ambiente Virtual Python
+    |__ /app                        # Pacote da Aplicação Web
+        |-- __init__.py
+        |-- routes.py               # Definição das rotas da aplicação        
+        |__ /templates              # Diretório para os Modelos html
+            |-- index.html
+        |__ /static                 # Diretório para os arquivos estáticos
+            |__ ..
+        |__ .
+    |__ ..
+|__ .                        
