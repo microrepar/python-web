@@ -1,13 +1,13 @@
 PASSOS PARA ATUALIZAÇÃO DO PROJETO NO PYTHONANYWHERE
 
 Após alterações realizadas no código:
-1. Adicionar as alterções no stage  -> git add -A
-2. Realizar o commit                -> git commit -m "Assunto aqui(padrão guia do commit amigão)"
-3. Executar um push                 -> git push
-4. Acessar a Plataforma pythonanywhere.com
-5. Abrir o terminal bash da conta pythonanywhere
-6. Acessar o diretorio do projeto (no meu caso é: python_web)
-7. Executar um pull                 -> git pull
-8. Ativar o ambiente virtual        -> $ workon [nome-do-ambiente-virtual]
-9. Instalar módulos de requeriments -> $ pip install -r requeriments.txt
+1.  Adicionar as alterções no stage  -> git add -A
+2.  Realizar o commit                -> git commit -m "Assunto aqui(padrão guia do commit amigão)"
+3.  Executar um push                 -> git push
+4.  Acessar a Plataforma pythonanywhere.com
+5.  Abrir o terminal bash da conta pythonanywhere
+6.  Acessar o diretorio do projeto (no meu caso é: python_web)
+7.  Executar um pull                 -> git pull
+8.  Ativar o ambiente virtual        -> $ workon [nome-do-ambiente-virtual]
+9.  Instalar módulos de requeriments -> $ pip install -r requeriments.txt
 10. Efetuar um reflesh na aplicação -> aba web na plataforma
